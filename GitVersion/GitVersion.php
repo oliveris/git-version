@@ -10,6 +10,7 @@ class GitVersion
      *
      * Gets the latest version in the project
      *
+     * @return string
      */
     public static function getVersion()
     {
