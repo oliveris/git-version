@@ -1,0 +1,17 @@
+{
+  "name": "oliveris/git-version",
+  "description": "Gets the git version and returns it as a string.",
+  "keywords": ["Git Version", "Git", "Version"],
+  "type": "package",
+  "license": "MIT",
+  "authors": [{
+    "name": "Sam Oliveri",
+    "email": "samoliveri92@gmail.com"
+  }],
+  "autoload": {
+    "psr-4": {
+      "GitVersion\\" : "GitVersion/"
+    }
+  },
+  "minimum-stability": "dev"
+}
