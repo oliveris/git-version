@@ -1,7 +1,7 @@
 {
   "name": "oliveris/git-version",
   "description": "Gets the git version and returns it as a string.",
-  "keywords": ["Git Version", "Git", "Version"],
+  "keywords": ["Git Version", "Git", "Version", "tag", "Git tag", "release date", "tag date"],
   "type": "package",
   "license": "MIT",
   "authors": [{
