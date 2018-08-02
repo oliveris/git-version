@@ -5,7 +5,7 @@ namespace GitVersion;
 class GitVersion
 {
     /**
-     * Method getVersion()
+     * Method getLatestVersion()
      * --------------------------------
      *
      * Gets the latest version in the project
@@ -27,7 +27,7 @@ class GitVersion
      * Method getVersionDate()
      * --------------------------------
      *
-     * Gets the date of
+     * Gets the date of the tag version passed
      *
      * @param $version
      * @param string $date_format
